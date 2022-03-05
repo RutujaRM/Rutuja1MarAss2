@@ -1,0 +1,55 @@
+body{
+      margin: 150px 0px 0px 500px;
+      background-color: #297F87;
+}
+
+
+#value1{
+          height: 30px;
+          width: 150px;
+          border-radius: 20px;
+          margin-left: 40px;
+          font-size: medium;
+          text-align: center;
+}
+
+#value2{
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 15px;
+    font-size: medium;
+    text-align: center;
+}
+
+
+#answer{
+    height: 30px;
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 150px;
+    font-size: medium;
+    text-align: center;
+}
+
+
+label{
+       font-size: x-large;
+       color: #F4F9F9;
+}
+
+button{
+        height: 40px;
+        width: 150px;
+        border-radius: 20px;
+        margin: 50px 0px 0px 100px;
+        background-color: #B34180;
+        font-size: medium;
+        color: wheat;
+}
+
+  
+
+
+
+
